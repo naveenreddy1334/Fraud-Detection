@@ -30,8 +30,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 <p align="center"><h1 align="center">FRAUD-DETECTION</h1></p>
 <p align="center">
-	This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
- This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+	This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).<br>
+ This project uses <u>nextjs</u>(https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize<br> and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
