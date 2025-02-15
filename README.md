@@ -41,7 +41,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 <p align="center"><h1 align="center">FRAUD-DETECTION</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	
 </p>
 
 <p align="center"><!-- default option, no dependency badges. -->
