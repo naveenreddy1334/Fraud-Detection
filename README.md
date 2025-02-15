@@ -42,10 +42,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
   - [ Installation](#-installation)
   - [ Usage](#-usage)
   - [ Testing](#-testing)
-- [ Project Roadmap](#-project-roadmap)
+- [Deploy on Vercel](#-deploy-on-vercel)
 - [ Contributing](#-contributing)
 - [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
+
 
 
 
