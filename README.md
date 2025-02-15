@@ -68,13 +68,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - [ License](#-license)
 - [ Acknowledgments](#-acknowledgments)
 
----
+
 
 ##  Overview
 
 The Fraud Detection Dashboard is a React-based web application that visualizes transaction data and highlights potentially fraudulent activities. It includes real-time transaction simulation, risk analysis, and various insightful charts to help users monitor and detect fraudulent transactions.
 
----
 
 ##  Features
 
@@ -87,7 +86,7 @@ The Fraud Detection Dashboard is a React-based web application that visualizes t
 	- Average risk score<br>
 - <b>User-Friendly UI</b>: Clean and modern dashboard design.
 
----
+
 
 ##  Project Structure
 
@@ -259,7 +258,7 @@ The Fraud Detection Dashboard is a React-based web application that visualizes t
 	</details>
 </details>
 
----
+
 ##  Getting Started
 
 ###  Prerequisites
@@ -323,7 +322,6 @@ Run the test suite using the following command:
 - [ ] **`Task 2`**: Implement feature two.
 - [ ] **`Task 3`**: Implement feature three.
 
----
 
 ##  Contributing
 
@@ -366,16 +364,15 @@ Run the test suite using the following command:
 </p>
 </details>
 
----
 
 ##  License
 
 This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
----
+
 
 ##  Acknowledgments
 
 - List any resources, contributors, inspiration, etc. here.
 
----
+
