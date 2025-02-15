@@ -18,11 +18,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
 
@@ -126,13 +121,9 @@ The Fraud Detection Dashboard is a React-based web application that visualizes t
 ## Project Index
 
 - Dashboard.tsx - Main dashboard UI with key metrics.
-
 - TransactionsTable.tsx - Table displaying transaction details.
-
 - RiskChart.tsx - Visualization of transaction risk levels.
-
 - generateTransactions.ts - Utility for generating synthetic transaction data.
-
 - App.tsx - Main application entry point.
 
 
@@ -142,9 +133,10 @@ The Fraud Detection Dashboard is a React-based web application that visualizes t
 
 Before getting started with Fraud-Detection, ensure your runtime environment meets the following requirements:
 
-- **Programming Language:** Error detecting primary_language: {'json': 6, 'ts': 4, 'mjs': 4, 'tsx': 5, 'css': 2}
-- **Package Manager:** Npm
-
+- Node.js (v16+ recommended)
+- npm or yarn
+- React (latest version)
+- TypeScript
 
 ###  Installation
 
@@ -165,10 +157,10 @@ Install Fraud-Detection using one of the following methods:
 3. Install the project dependencies:
 
 
-**Using `npm`** &nbsp; [<img align="center" src="" />]()
+
 
 ```sh
-❯ echo 'INSERT-INSTALL-COMMAND-HERE'
+❯ npm install
 ```
 
 
@@ -176,28 +168,30 @@ Install Fraud-Detection using one of the following methods:
 
 ###  Usage
 Run Fraud-Detection using the following command:
-**Using `npm`** &nbsp; [<img align="center" src="" />]()
+
 
 ```sh
-❯ echo 'INSERT-RUN-COMMAND-HERE'
+❯ npm run dev
 ```
-
+Open http://localhost:3000 in your browser.
 
 ###  Testing
 Run the test suite using the following command:
-**Using `npm`** &nbsp; [<img align="center" src="" />]()
+
 
 ```sh
-❯ echo 'INSERT-TEST-COMMAND-HERE'
+❯ npm test dev
 ```
 
 
 ---
-##  Project Roadmap
+## Deploy on Vercel
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
 
 
 ##  Contributing
@@ -248,8 +242,5 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 
 
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
 
 
