@@ -43,12 +43,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <p align="center">
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/naveenreddy1334/Fraud-Detection?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/naveenreddy1334/Fraud-Detection?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/naveenreddy1334/Fraud-Detection?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/naveenreddy1334/Fraud-Detection?style=default&color=0080ff" alt="repo-language-count">
-</p>
+
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
 <p align="center">
