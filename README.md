@@ -72,7 +72,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+The Fraud Detection Dashboard is a React-based web application that visualizes transaction data and highlights potentially fraudulent activities. It includes real-time transaction simulation, risk analysis, and various insightful charts to help users monitor and detect fraudulent transactions.
 
 ---
 
