@@ -9,7 +9,7 @@
 
 <p align="center"><h1 align="center">FRAUD-DETECTION</h1></p>
 <p align="center">
-	This repository contains the code for a Fraud Detection system that identifies fraudulent activities in a given dataset using machine learning techniques to analyze transaction data and determine the likelihood of fraud. It is a Next.js(https://nextjs.org) project bootstrapped with Create Next App(https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+	This repository contains the code for a Fraud Detection system that identifies fraudulent activities in a given dataset using machine learning techniques to analyze transaction data and determine the likelihood of fraud. Visit website https://fraud-detection-elhumgnvg-k-naveen-reddys-projects.vercel.app
 	
  
 ## Learn More
