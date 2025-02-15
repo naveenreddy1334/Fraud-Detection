@@ -123,7 +123,17 @@ The Fraud Detection Dashboard is a React-based web application that visualizes t
     └── tsconfig.json
 ```
 
+Project Index
 
+- Dashboard.tsx - Main dashboard UI with key metrics.
+
+- TransactionsTable.tsx - Table displaying transaction details.
+
+- RiskChart.tsx - Visualization of transaction risk levels.
+
+- generateTransactions.ts - Utility for generating synthetic transaction data.
+
+- App.tsx - Main application entry point.
 
 
 ##  Getting Started
