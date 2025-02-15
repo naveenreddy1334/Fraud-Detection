@@ -78,7 +78,7 @@ The Fraud Detection Dashboard is a React-based web application that visualizes t
 
 ##  Features
 
-- [Real-time Transaction Simulation: Generates synthetic transactions dynamically].<br>
+- Real-time Transaction Simulation: Generates synthetic transactions dynamically.<br>
 ->Fraud Risk Scoring: Each transaction is assigned a risk score based on predefined conditions.<br>
 ->Interactive Charts: Uses recharts to display key metrics such as:<br>
 	-Total transactions<br>
