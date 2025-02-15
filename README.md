@@ -123,7 +123,7 @@ The Fraud Detection Dashboard is a React-based web application that visualizes t
     └── tsconfig.json
 ```
 
-###Project Index
+## Project Index
 
 - Dashboard.tsx - Main dashboard UI with key metrics.
 
